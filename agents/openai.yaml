@@ -1,0 +1,4 @@
+interface:
+  display_name: "Worktrunk Workflows"
+  short_description: "Design and operate wt worktree workflows"
+  default_prompt: "Use $worktrunk-workflows to set up a Worktrunk workflow for this repository."
