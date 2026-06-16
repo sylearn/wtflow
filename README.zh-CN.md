@@ -106,3 +106,7 @@ uvx ruff check scripts/
 ## 许可证
 
 MIT © 2026 Sylearn
+
+## 致谢
+
+本项目在 [LINUX DO](https://linux.do) 社区分享，感谢社区的支持与反馈。
